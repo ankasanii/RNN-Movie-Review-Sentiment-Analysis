@@ -1,0 +1,7 @@
+# Dependencies for RNNProject (IMDB RNN Sentiment App)
+# Pin versions as needed; currently using broad specs for flexibility.
+
+tensorflow
+streamlit
+numpy
+pandas
